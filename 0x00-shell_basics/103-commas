@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -av|ls -d*/|ls -m
+ls -amv|ls -d*/
