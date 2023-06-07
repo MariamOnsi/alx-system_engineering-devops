@@ -1,2 +1,2 @@
 #!/bin/bash
-ls .*/|ls -m|sort -n
+ls .*/|ls -m|sort -k
