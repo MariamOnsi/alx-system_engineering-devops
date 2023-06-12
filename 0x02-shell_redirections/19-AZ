@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Aco | tr Ac ze
+echo Aco | tr "A" "z" | tr "c" "e"
